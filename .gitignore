@@ -1,0 +1,23 @@
+# Dependency directories
+node_modules
+
+# Build artifacts
+artifacts
+cache
+
+# Local configuration files
+hardhat.config.local.js
+.deploy.env
+.env
+.env.local
+.env.development
+.env.production
+
+# Editor and system files
+*.swp
+*.swo
+*.bak
+*.orig
+*.log
+.DS_Store
+Thumbs.db
